@@ -1,6 +1,6 @@
 #!/bin/bash
 
-EXEC=./a5
+EXEC=./segpar
 FILE=${1}
 OUT=${FILE/.w70.fa/.sccRY}
 
