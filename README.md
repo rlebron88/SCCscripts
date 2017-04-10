@@ -8,3 +8,5 @@
 
 ## Tools
 
+# How to cite
+Ricardo Lebrón, unpublished: https://github.com/rlebron88/SCCscripts
